@@ -1,0 +1,13 @@
+{"JobSearch.JobTitle":"",
+"JobSearch.Keywords":"data utilities",
+"JobSearch.Location":"London", 
+"JobSearch.LocationID": "0",
+"JobSearch.RoleType":"ANY",
+"JobSearch.Proximity": "25",
+"JobSearch.IncludeRemoteWorking": "true",
+
+"JobSearch.JobAge": "7",
+"JobSearch.PostedBy":"",
+"JobSearch.SortBy":"EXPLORER_DATE_DESC",
+"JobSearch.SearchMode": "PowerSearch",
+"ChangeMode": "false"}
